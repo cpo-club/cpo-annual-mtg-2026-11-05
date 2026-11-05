@@ -16,7 +16,7 @@ format: revealjs
 
 | Activity  |  Type   | Amount   |
 |-----------|---------|----------:|
-| BFSP      |         |           |
+| BFSP^[Black Forest Star Party]      |         |           |
 |           | Income  |  28,452   |
 |           | Expense | 20,935    |
 |           | NET     | 7,517     |
