@@ -68,14 +68,3 @@ format:
 ## {.center}
 
 ![Science Briefing Substack: <https://substack.com/@sciencebriefing/note/c-375316963>](img/universe-is-moving.png){fig-align="center"}
-
----
-
-:::: {.columns}
-::: {.column width=50%}
-<div class="substack-post-embed"><p lang="en">The Universe Is Moving. Your Sky Just Hides It. We’re flying through space, yet the stars seem almost motionless. Watch what happens when we zoom out to cosmic scales.</p><p> - Science Briefing</p><a data-comment-link href="https://substack.com/@sciencebriefing/note/c-375316963">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
-:::
-::: {.column width=50%}
-<https://substack.com/@sciencebriefing/note/c-375316963>
-:::
-::::
