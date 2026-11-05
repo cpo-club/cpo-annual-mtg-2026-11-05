@@ -3,7 +3,18 @@ title: "Annual Meeting"
 subtitle: "Central Pennsylvania Observers"
 author: "Rick Gilmore, President"
 date: 2026-11-05
-format: revealjs
+format: 
+  revealjs:
+    theme: default
+    chalkboard: true
+    preview-links: auto
+    background-transition: concave
+    fig-align: center
+    footer: "[CPO 2026 November](index.html)"
+    slide-number: true
+    multiplex: true
+    css: css/slide-styles.css
+    logo: img/CPO_Logo_new_lg.jpg
 ---
 
 ## Agenda
@@ -48,6 +59,23 @@ format: revealjs
 ::: {.column width=50%}
 - Migration to groups.io
 - Annual budget
-- Bylaws update
+- Bylaws refresh
+- Monthly board meetings (3rd Thursday)
+- Business meetings (Feb, May, Aug, Nov?)
+:::
+::::
+
+## {.center}
+
+![Science Briefing Substack: <https://substack.com/@sciencebriefing/note/c-375316963>](img/universe-is-moving.png){fig-align="center"}
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+<div class="substack-post-embed"><p lang="en">The Universe Is Moving. Your Sky Just Hides It. We’re flying through space, yet the stars seem almost motionless. Watch what happens when we zoom out to cosmic scales.</p><p> - Science Briefing</p><a data-comment-link href="https://substack.com/@sciencebriefing/note/c-375316963">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+:::
+::: {.column width=50%}
+<https://substack.com/@sciencebriefing/note/c-375316963>
 :::
 ::::
